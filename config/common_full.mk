@@ -22,7 +22,7 @@ PRODUCT_PACKAGES += \
     zstd
 
 # Overlays
-include vendor/overlay/overlays.mk
+#include vendor/overlay/overlays.mk
 
 # Fonts
-include vendor/fontage/config.mk
+#include vendor/fontage/config.mk
