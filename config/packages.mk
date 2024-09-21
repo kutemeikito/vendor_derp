@@ -1,5 +1,6 @@
 # DerpFest packages
 PRODUCT_PACKAGES += \
+    Etar \
     BatteryStatsViewer \
     Datura \
     DerpSetupWizard \
